@@ -1,1 +1,2 @@
-# cosc645
+# COSC645
+Semester project (WIP)
